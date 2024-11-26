@@ -1,0 +1,4 @@
+Cual es la capital de {stateOfCountry} ? Responde con information en este formato:
+La capital de ```stateOfCountry``` es la ```capital```.
+La ciudad tiene una población de ```población```.
+La ciudad tiene como lenguaje principal ```lenguaje```.

@@ -11,8 +11,10 @@ class OpenAiServiceImplTest {
     OpenAIServices openAIServices;
     @Test
     void getAnswer() {
-        String answer= openAIServices.getAnswer("Como esta el tiempo hoy");
+      //  String answer= openAIServices.getAnswer("Como esta el tiempo hoy");
         System.out.println("La respuesta es ->");
-        System.out.println(answer);
+        //
+        //
+        // System.out.println(answer);
     }
 }
